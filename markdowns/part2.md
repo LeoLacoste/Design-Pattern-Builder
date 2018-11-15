@@ -1,4 +1,5 @@
-# Hello world,
-
-Welcome to this playground about this amazing technology. I'll show you ...
-dsfbsdfsdgjkfdhfhdsjebzjigedvfdgsdgf
+?[What is the answer to Life, the Universe and Everything?]
+-[ ] There is no answer to that!
+-[ ] Sleep and eat
+-[x] Easy, this is 42
+-[ ] Peace & Love
