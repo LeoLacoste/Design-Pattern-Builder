@@ -18,3 +18,8 @@
 -[x] Code plus lisible
 -[ ] Gain de temps
 
+?[Quel est la structure du Design Pattern Builder?]
+-[ ] Directeur, Monteur, Produit, ProduitConcret
+-[x] Directeur, Monteur, MonteurConcret, Produit
+-[ ] Constructeur, Monteur, Objet, ObjetConcret
+
