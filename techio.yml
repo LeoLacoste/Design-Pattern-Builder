@@ -1,6 +1,6 @@
 title: Quizz
 plan:
-  - title: Part 1
+  - title: Introduction
     statement: markdowns/welcome.md
   - title: Quizz
     statement: markdowns/quizz.md
